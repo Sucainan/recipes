@@ -1,0 +1,64 @@
+/*stylesheet*/
+body {
+    background-image: url(../img/mae-mu-dzSQv1vWjAg-unsplash.jpg);
+    background-color: #fef4e5;
+    display: flex;
+    color: #fef4e5;
+}
+.intruc,
+.tips {
+    margin-top: 100px;
+}
+.home {
+    padding: 0px 0px 0px 20px;
+    border-radius: 50px;
+    background-color: #e49300;
+    font-size: 26px;
+    color: #fef4e5;
+}
+.jlex {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+li,
+p {
+    font-size: 20px;
+    font-family: Leckerli One;
+}
+
+.maichi {
+    width: 500px;
+    height: 420px;
+    border-radius: 40px;
+}
+.head {
+    font-size: 70px;
+}
+.font {
+    font-family: Salsa, sans-serif;
+}
+.para {
+    width: 30%;
+}
+.direct,
+.intruc,
+.tips {
+    box-shadow: 15px 10px 5px #e49300;
+    border: #e49300 solid 3px;
+    border-radius: 30px;
+    padding-left: 30px;
+    width: 400px;   
+}
+.chi {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    padding: 20px 50px -8% 20px;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+    margin-block: -15% 10%;
+
+}
